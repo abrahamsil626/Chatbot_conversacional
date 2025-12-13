@@ -18,3 +18,9 @@ View your app in AI Studio: https://ai.studio/apps/drive/1Ui_j_FPqsiS_M92GfIyEih
 2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
 3. Run the app:
    `npm run dev`
+
+Online Deploy (just frontend):
+https://n8n-chatbot-conversational.netlify.app
+
+Test as Iframe (just frontend):
+https://n8n-conversational-chatbot-as-iframe.netlify.app
