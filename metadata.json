@@ -1,0 +1,7 @@
+{
+  "name": "N8N Voice Agent",
+  "description": "Interactive Voice AI Agent for n8n workflows with VAD and auto-looping.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
