@@ -20,7 +20,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1Ui_j_FPqsiS_M92GfIyEih
    `npm run dev`
 
 Online Deploy (just frontend):
-https://n8n-chatbot-conversational.netlify.app
+https://n8n-conversational-chatbot-n8n.netlify.app
 
 Test as Iframe (just frontend):
 https://n8n-conversational-chatbot-as-iframe.netlify.app
