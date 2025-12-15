@@ -15,7 +15,7 @@ View your app in AI Studio: https://ai.studio/apps/drive/1Ui_j_FPqsiS_M92GfIyEih
 
 1. Install dependencies:
    `npm install`
-2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key
+2. Set the `GEMINI_API_KEY` in [.env.local](.env.local) to your Gemini API key AND configure n8n `WEBHOOK_URL` from [Chatbot_conversacional/hook/useVoiceAgent.ts] route
 3. Run the app:
    `npm run dev`
 
